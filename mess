@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    
+        <link rel="stylesheet" href="css/style.css">
+    
+        <style>
+            h1 {
+                font-size: 50px;
+                font-weight: 300;
+                color: teal;
+                text-align: left;
+            }
+        </style>
+        <style>
+            button {
+                color: lightseagreen;
+                font-size: medium;
+            }
+        </style>
+    <style>
+        label {
+            font-style: oblique;
+            background-color: cadetblue;
+            font-weight:bold ;
+        }
+    </style>
+    <style>
+        li {
+            font-family: 'Times New Roman', Times, serif;
+    
+        }
+    </style>
+    <style>
+        p{
+            text-align: center;
+            display: block;
+        }
+    </style>
+
+    </head>
+    <body>
+        
+
+        <h1>Karen</h1>
+        <button>go next</button>
+        <div class="preference">
+            <label for="peas">Do you like bread?</label>
+            <input type="checkbox" name="peas" id="peas" />
+        </div>
+        <h3><strike>send help</strike></h3>
+        <cite> "Smoke crack go ape mode"</cite>
+        <li>first of all</li>
+        <li>second of all</li>
+        <li>tird of all</li>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga quo magni magnam reiciendis harum vel aliquid
+            cupiditate excepturi, possimus ad voluptatum odio nostrum debitis labore non voluptate placeat culpa quasi?</p>
+    
+            <u><strong>Slaaaayyyy</strong></u>
+    
+        <a href="https://liceoleon.notion.site/Programaci-n-101-8ce4a67b73d4403994c06a9354fd02c8?pvs=4">Link de la
+            materia</a>
+
+
+    </body>
+    </html>
